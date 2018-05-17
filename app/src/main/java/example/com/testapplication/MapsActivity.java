@@ -16,6 +16,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 {
 
     private GoogleMap mMap;
+	//Comments
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
